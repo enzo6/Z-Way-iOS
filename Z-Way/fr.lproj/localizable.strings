@@ -1,0 +1,80 @@
+/* 
+  Strings.strings
+  Z-Way
+
+  Created by Alex Skalozub on 9/3/12.
+  Copyright (c) 2012 Alex Skalozub.
+
+  Z-Way for iOS is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version.
+  
+  Z-Way for iOS is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+ 
+  You should have received a copy of the GNU General Public License
+  along with Z-Way for iOS. If not, see <http://www.gnu.org/licenses/>
+*/
+
+"$AllDevices" = "Tout";
+"$Lights" = "Eclairages";
+"$Sensors" = "Capteurs";
+"$Meters" = "Sondes";
+"$Thermostats" = "Теmpératures";
+"$Blinds" = "Stores";
+"$Batteries" = "Batteries";
+
+"Profiles" = "Profils";
+"You should create at least one profile" = "Vous devez créer au moins un profil";
+"You should select a profile" = "Vous devez sélectionner un profil";
+"New Profile" = "Nouveau Profil";
+
+"Name" = "Nom";
+"Servers" = "Serveur";
+"Indoor" = "Adresse ip interne";
+"Outdoor" = "Adresse ip externe";
+"Credentials" = "Authentification";
+"Login" = "Nom d'utilisateur";
+"Password" = "Mot de passe";
+
+"Device" = "Appareil";
+"Done" = "Ok";
+"No devices" = "Aucun appareil";
+"No connection" = "Aucune connexion";
+
+// Echelle
+"grdC" = "ºC";
+"grd C" = "ºC";
+"grdF" = "ºF";
+"grd F" = "ºF";
+"kWt" = "KW";
+"kWh" = "KWh";
+"W" = "W";
+
+// Thermostat
+"Off" = "Off";
+"Heat" = "Chauffage";
+"Cool" = "Clim";
+"Auto" = "Auto";
+"Auxiliary" = "Auxiliaire";
+"Resume" = "Reprendre";
+"Fan Only" = "Ventilateur seul";
+"Furnace" = "Chaudière";
+"Dry Air" = "Air sec";
+"Moist Air" = "Air humide";
+"Auto Change Over" = "Automatique";
+"Energy Save Heat" = "Chauffage (éco)";
+"Energy Save Cool" = "Clim (éco)";
+"Away" = "Continu";
+"Auto Low" = "Faible (auto)";
+"On Low" = "Faible";
+"Auto High" = "Fort (auto)";
+"On High" = "Fort";
+"Auto Medium" = "Moyen (auto)";
+"On Medium" = "Moyen";
+
+"$InvalidCredentialsTitle" = "Erreur de connexion";
+"$InvalidCredentialsText" = "Nom d'utilisateur ou mot de passe incorrect. Vérifiez les paramètres du profil.";
